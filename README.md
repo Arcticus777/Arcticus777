@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arcticus777
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, html, css, java script.
+- 🌱 I’m currently learning python, html, css, javascript.
 
 
 <!---
